@@ -1,4 +1,4 @@
-# README.md para el Proyecto "CheckCodeOI"
+# CheckCodeOI
 
 ## Descripción
 CheckCodeOI es una prueba de concepto que utiliza ChatGPT para analizar código Python. El proyecto interactúa con la API de OpenAI para evaluar scripts de Python proporcionados por el usuario. En la carpeta test puedes encontrar scripts que he utilizado durante las pruebas.
